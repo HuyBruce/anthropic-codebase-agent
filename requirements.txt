@@ -1,0 +1,3 @@
+# No runtime dependency is required; the agent uses Python stdlib HTTP + SQLite.
+# pytest is only for local tests.
+pytest>=8.0.0
